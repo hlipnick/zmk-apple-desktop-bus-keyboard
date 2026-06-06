@@ -10,6 +10,7 @@ include:
   - board: seeeduino_xiao_ble
     shield: adbk
     artifact-name: adbk_fw_hl
+    snippet: zmk-usb-logging
   - board: seeeduino_xiao_ble
     shield: tester_xiao
 
